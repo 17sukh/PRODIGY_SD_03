@@ -1,0 +1,18 @@
+{
+    "john": {
+        "phone": "3458723433",
+        "email": "john03@gmail.com"
+    },
+    "raghav": {
+        "phone": "9868056789",
+        "email": "raghav76@gmail.com"
+    },
+    "anna": {
+        "phone": "98504563456",
+        "email": "anna89@gmail.com"
+    },
+    "anu": {
+        "phone": "8976498765",
+        "email": "anu7@gmail.com"
+    }
+}
